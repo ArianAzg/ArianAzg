@@ -16,7 +16,7 @@ I'm currently employed as Postdoctroal Research Associate at University of North
 
 -->
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=ConvolutionalAutoEncoder-ImageFusion&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/ConvolutionalAutoEncoder-ImageFusion)
 
 
 <!--
