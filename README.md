@@ -18,6 +18,9 @@ I'm currently employed as Postdoctroal Research Associate at University of North
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=ConvolutionalAutoEncoder-ImageFusion&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/ConvolutionalAutoEncoder-ImageFusion)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion&show_icons=true&theme=gotham)](https://github.com/ArianAzg/Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)
+
+
 
 <!--
 **ArianAzg/ArianAzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
