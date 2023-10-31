@@ -1,12 +1,12 @@
 ### Hello, thanks for stopping by!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=Matlab&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=2bbc8a)
+![](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=MATLAB&color=f03c15)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=f03c15)
 ![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=f03c15)
 
 
 
