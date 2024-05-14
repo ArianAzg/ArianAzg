@@ -12,11 +12,6 @@
 I'm currently employed as Postdoctroal Research Associate at University of North Carolina at Chapel Hill. I graduated with a Ph.D. from the University of Texas at Dallas.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianAzg&theme=slateorange&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAzg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=ConvolutionalAutoEncoder-ImageFusion&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/ConvolutionalAutoEncoder-ImageFusion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion&show_icons=true&theme=gotham)](https://github.com/ArianAzg/Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)
