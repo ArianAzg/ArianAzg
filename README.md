@@ -3,8 +3,10 @@
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=MATLAB&color=f03c15)
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=f03c15)
-![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&color=f03c15)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=scikitlearn&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=opencv&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=numpy&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=f03c15)
 
 
