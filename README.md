@@ -12,7 +12,7 @@
 I'm currently employed as Postdoctroal Research Associate at University of North Carolina at Chapel Hill. I graduated with a Ph.D. from the University of Texas at Dallas.
 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks&show_icons=true&theme=gotham)](https://github.com/ArianAzg/Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion&show_icons=true&theme=gotham)](https://github.com/ArianAzg/Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Image-Fusion-with-PSO-Algorithm&show_icons=true&theme=gotham)](https://github.com/ArianAzg/Image-Fusion-with-PSO-Algorithm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HafezEM&repo=Pansharpening-ConvolutionalAutoEncoder&show_icons=true&theme=gotham)](https://github.com/HafezEM/Pansharpening-ConvolutionalAutoEncoder)
