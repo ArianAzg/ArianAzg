@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=2bbc8a">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=MATLAB&color=f03c15">
+    <img src="https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=MATLAB&color=87CEEB">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a">
@@ -33,7 +33,7 @@
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=f03c15">
+    <img src="https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=87CEEB">
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
