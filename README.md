@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&color=2bbc8a">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=FAC206">
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
@@ -37,7 +37,7 @@
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=scikitlearn&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=scikitlearn&color=E6DAA6">
   </a>
   <br>
 </h1>
