@@ -10,7 +10,7 @@
 </h1>
 <h1 align="center">
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&color=E6DAA6">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Language-MATLAB-informational?style=flat&logo=MATLAB&color=87CEEB">
