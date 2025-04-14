@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&color=f03c15">
+    <img src="https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=f03c15">
   </a>
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&color=2bbc8a">
