@@ -45,13 +45,13 @@
 
 I'm currently employed as Research Assistant Professor at University of North Carolina at Chapel Hill. I graduated with a Ph.D. from the University of Texas at Dallas.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks&theme=gotham)](https://github.com/ArianAzg/Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks)](https://github.com/ArianAzg/Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion&theme=gotham)](https://github.com/ArianAzg/Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)](https://github.com/ArianAzg/Application-of-Fractional-Calculus-in-Multispectral-Image-Fusion)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Image-Fusion-with-PSO-Algorithm&theme=gotham)](https://github.com/ArianAzg/Image-Fusion-with-PSO-Algorithm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianAzg&repo=Image-Fusion-with-PSO-Algorithm)](https://github.com/ArianAzg/Image-Fusion-with-PSO-Algorithm)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HafezEM&repo=Pansharpening-ConvolutionalAutoEncoder&theme=gotham)](https://github.com/HafezEM/Pansharpening-ConvolutionalAutoEncoder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HafezEM&repo=Pansharpening-ConvolutionalAutoEncoder)](https://github.com/HafezEM/Pansharpening-ConvolutionalAutoEncoder)
 
 <!--
 **ArianAzg/ArianAzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
