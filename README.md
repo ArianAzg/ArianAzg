@@ -3,7 +3,6 @@
 **Hello, thanks for stopping by**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianAzg&theme=default" />
   <img height="160" src="https://streak-stats.demolab.com?user=ArianAzg&hide_border=true" />
 </div>
 
