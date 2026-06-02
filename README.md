@@ -2,10 +2,10 @@
 
 **Hello, thanks for stopping by**! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArianAzg&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=false&amp;hide_border=true&amp;hide_title=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ArianAzg&amp;hide_border=true" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArianAzg&theme=default" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ArianAzg&hide_border=true" />
+</div>
 
 </h1>
 <h1 align="center">
