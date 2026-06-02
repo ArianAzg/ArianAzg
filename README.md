@@ -28,15 +28,7 @@
   </a>
 
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=numpy&color=2bbc8a">
-  </a>
-
-  <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=87CEEB">
-  </a>
-
-  <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=scikitlearn&color=E6DAA6">
   </a>
   <br>
 </h1>
